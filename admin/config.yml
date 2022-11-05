@@ -3,6 +3,8 @@ backend:
   accept_roles:
     - admin
     - editor
+repo: oussama/ahtaq2
+branch: master
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
